@@ -17,7 +17,7 @@ class Main {
 	private static String grass = "/\\";
 
 	public static void main(String[] args) {
-		// gretting messages !!! to the PODs
+		// gretting messages !!! to ...
 		Print.coloursOut(ConsoleColors.RED_BACKGROUND, "Felices Fiestas", true);
 		Print.coloursOut(ConsoleColors.GREEN_BACKGROUND, "¡TEAM GLOBANT!", true);
 		// give some space
