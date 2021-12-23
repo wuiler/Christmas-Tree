@@ -19,7 +19,7 @@ class Main {
 	public static void main(String[] args) {
 		// gretting messages !!! to the PODs
 		Print.coloursOut(ConsoleColors.RED_BACKGROUND, "Felices Fiestas", true);
-		Print.coloursOut(ConsoleColors.GREEN_BACKGROUND, "¡POD ACONCAGUA!", true);
+		Print.coloursOut(ConsoleColors.GREEN_BACKGROUND, "¡TEAM GLOBANT!", true);
 		// give some space
 		System.out.println(" ");
 
